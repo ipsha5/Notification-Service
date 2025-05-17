@@ -18,7 +18,7 @@ A RESTful API for sending notifications to users through multiple channels (Emai
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/notification-service.git
+   git clone https://github.com/ipsha5/notification-service.git
    cd notification-service
    ```
 
@@ -168,4 +168,4 @@ The application follows a modular architecture:
 - Implement real-time notifications with WebSockets
 - Add more notification channels (e.g., push notifications)
 - Add notification templates
-- Implement bulk notifications 
+- Implement bulk notifications
